@@ -1,0 +1,29 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-top: 150px;
+    background-color: #eff1f5
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: left;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(69, 69, 69);
+}
+
+strong {
+    font: bold;
+    color: black;
+}
+
