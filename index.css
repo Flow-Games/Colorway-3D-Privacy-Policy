@@ -36,8 +36,12 @@ strong {
 
 @media only screen and (max-width: 600px) {
     body {
-        margin: 50px;
+        margin: 30px;
         margin-top: 25px;
+    }
+
+    .main {
+        padding: 20px;
     }
 }
 
